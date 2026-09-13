@@ -1,0 +1,18 @@
+{
+    "preset": "nonbinary",
+    "mode": "rgb",
+    "auto_detect_light_dark": true,
+    "light_dark": "light",
+    "lightness": 0.0,
+    "color_align": {
+        "mode": "horizontal"
+    },
+    "backend": "fastfetch",
+    "args": null,
+    "distro": "NetHydra",
+    "pride_month_disable": false,
+    "custom_ascii_path": null,
+    "custom_presets": null,
+    "palette_glyph": null,
+    "palette_type": null
+}
